@@ -1,7 +1,6 @@
 # DABStick Eval - Experimental board for SI4688 FM/DAB+ receiver with STM32F4 and audio codec
 
-![Image of DABPStick Eval v1 PCB]
-(https://github.com/elmo2k3/dabstick_eval/blob/master/pics/dabstick_v1.jpg)
+![Image of DABPStick Eval v1 PCB](https://github.com/elmo2k3/dabstick_eval/blob/master/pics/dabstick_v1.jpg)
 
 ## Warning
 
@@ -19,5 +18,4 @@ This project is still work in progress
 
 ## Functional overview
 
-![Graph of functional overview]
-(https://github.com/elmo2k3/dabstick_eval/blob/master/doc/DABStick_overview.png)
+![Graph of functional overview](https://github.com/elmo2k3/dabstick_eval/blob/master/doc/DABStick_overview.png)
